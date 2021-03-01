@@ -1,6 +1,4 @@
-//Nama  : Bagas Dwi Sulistyo
-//NIM   : 20051397076
-//Kelas : 2020B Manajemen Informatika
+
 
 #include<iostream>
 #include<conio.h>
