@@ -1,7 +1,4 @@
-//Nama    	: Himmatuz Zahiroh
-//NIM 		: 20051397070
-//KELAS 	: 2020-B
-// (4) STACK
+
 
 #include <iostream>
 #include <string.h>
